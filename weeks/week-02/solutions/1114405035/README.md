@@ -22,5 +22,3 @@
 ```bash
 python -m unittest discover -s tests -p "test_*.py" -v
 ```
-
-如果你的學生代號不是 `1114405035`，請將目錄名稱修改為自己的 `student-id`。
